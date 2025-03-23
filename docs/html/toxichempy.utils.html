@@ -1,0 +1,254 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>toxichempy.utils package &mdash; ToxiChemPy 0.1.0 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+      <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=01f34227"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="_static/copybutton.js?v=f281be69"></script>
+      <script src="_static/custom.js?v=43d623ff"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Contact Us" href="contact.html" />
+    <link rel="prev" title="toxichempy.pipeline_framework package" href="toxichempy.pipeline_framework.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            ToxiChemPy
+          </a><input type="text" name="q" placeholder="Search ToxiChemPy..." aria-label="Search">
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.html">ToxiChemPy Package</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.html#getting-started">Getting Started</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="toxichempy.html#installation">Installation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="toxichempy.html#example-molecular-descriptor-analysis">Example: Molecular Descriptor Analysis</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.html#license-acknowledgments">License &amp; Acknowledgments</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.data_collection.html">Data Collection Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.data_collection.html#module-toxichempy.data_collection">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.chemoinformatics.html">Cheminformatics Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.chemoinformatics.html#module-toxichempy.chemoinformatics">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.experimental_toxicology.html">Experimental Toxicology Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.experimental_toxicology.html#module-toxichempy.experimental_toxicology">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.computational_toxicology.html">Computational Toxicology</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.computational_toxicology.html#module-toxichempy.computational_toxicology">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.machine_learning.html">Machine Learning Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.machine_learning.html#module-toxichempy.machine_learning">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.risk_assessment.html">Risk Assessment Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.risk_assessment.html#module-toxichempy.risk_assessment">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.statistical_analysis.html">Statistical Analysis Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.statistical_analysis.html#module-toxichempy.statistical_analysis">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.visualization.html">Visualization Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.visualization.html#module-toxichempy.visualization">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="toxichempy.pipeline_framework.html">Pipeline Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="toxichempy.pipeline_framework.html#module-toxichempy.pipeline_framework">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Utilities Subpackage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#module-toxichempy.utils">Module contents</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#toxichempy.utils.convert_file"><code class="docutils literal notranslate"><span class="pre">convert_file()</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#toxichempy.utils.read_file"><code class="docutils literal notranslate"><span class="pre">read_file()</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#toxichempy.utils.write_file"><code class="docutils literal notranslate"><span class="pre">write_file()</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="contact.html">Contact Us</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">ToxiChemPy</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">toxichempy.utils package</li>
+      <li class="wy-breadcrumbs-aside">
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="toxichempy-utils-package">
+<h1>toxichempy.utils package<a class="headerlink" href="#toxichempy-utils-package" title="Link to this heading"></a></h1>
+<section id="module-toxichempy.utils">
+<span id="module-contents"></span><h2>Module contents<a class="headerlink" href="#module-toxichempy.utils" title="Link to this heading"></a></h2>
+<dl class="py function">
+<dt class="sig sig-object py" id="toxichempy.utils.convert_file">
+<span class="sig-prename descclassname"><span class="pre">toxichempy.utils.</span></span><span class="sig-name descname"><span class="pre">convert_file</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">source_path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">target_path</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/toxichempy/utils/data_io_utils.html#convert_file"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#toxichempy.utils.convert_file" title="Link to this definition"></a></dt>
+<dd><p>Converts a file from one format to another.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Return type<span class="colon">:</span></dt>
+<dd class="field-odd"><p><span class="sphinx_autodoc_typehints-type"><a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.13)"><code class="xref py py-class docutils literal notranslate"><span class="pre">bool</span></code></a></span></p>
+</dd>
+</dl>
+<section id="parameters">
+<h3>Parameters:<a class="headerlink" href="#parameters" title="Link to this heading"></a></h3>
+<dl class="simple">
+<dt>source_path<span class="classifier">str</span></dt><dd><p>Path to the source file.</p>
+</dd>
+<dt>target_path<span class="classifier">str</span></dt><dd><p>Path to the destination file.</p>
+</dd>
+<dt><a href="#id1"><span class="problematic" id="id2">**</span></a>kwargs<span class="classifier">dict</span></dt><dd><p>Additional parameters for reading/writing.</p>
+</dd>
+</dl>
+</section>
+<section id="returns">
+<h3>Returns:<a class="headerlink" href="#returns" title="Link to this heading"></a></h3>
+<p>:
+bool</p>
+<blockquote>
+<div><p>True if conversion is successful, False otherwise.</p>
+</div></blockquote>
+</section>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="toxichempy.utils.read_file">
+<span class="sig-prename descclassname"><span class="pre">toxichempy.utils.</span></span><span class="sig-name descname"><span class="pre">read_file</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">file_path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">delimiter</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/toxichempy/utils/data_io_utils.html#read_file"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#toxichempy.utils.read_file" title="Link to this definition"></a></dt>
+<dd><p>Reads a file into a pandas DataFrame.</p>
+<p>Supports: CSV, TSV, Excel, JSON, Pickle, SQLite, HDF5, TXT.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Return type<span class="colon">:</span></dt>
+<dd class="field-odd"><p><span class="sphinx_autodoc_typehints-type"><a class="reference external" href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame" title="(in pandas v2.2.3)"><code class="xref py py-class docutils literal notranslate"><span class="pre">DataFrame</span></code></a></span></p>
+</dd>
+</dl>
+<section id="id3">
+<h3>Parameters:<a class="headerlink" href="#id3" title="Link to this heading"></a></h3>
+<dl class="simple">
+<dt>file_path<span class="classifier">str</span></dt><dd><p>Path to the source file.</p>
+</dd>
+<dt>delimiter<span class="classifier">str, optional</span></dt><dd><p>Delimiter for text files (default: None).</p>
+</dd>
+<dt><a href="#id4"><span class="problematic" id="id5">**</span></a>kwargs<span class="classifier">dict</span></dt><dd><p>Additional parameters for reading.</p>
+</dd>
+</dl>
+</section>
+<section id="id6">
+<h3>Returns:<a class="headerlink" href="#id6" title="Link to this heading"></a></h3>
+<p>:
+pd.DataFrame</p>
+<blockquote>
+<div><p>Data from the file.</p>
+</div></blockquote>
+</section>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="toxichempy.utils.write_file">
+<span class="sig-prename descclassname"><span class="pre">toxichempy.utils.</span></span><span class="sig-name descname"><span class="pre">write_file</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">df</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">file_path</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/toxichempy/utils/data_io_utils.html#write_file"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#toxichempy.utils.write_file" title="Link to this definition"></a></dt>
+<dd><p>Writes a pandas DataFrame to a file.</p>
+<p>Supported Formats: CSV, TSV, Excel, JSON, Pickle, SQLite, HDF5, TXT.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Return type<span class="colon">:</span></dt>
+<dd class="field-odd"><p><span class="sphinx_autodoc_typehints-type"><a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.13)"><code class="xref py py-class docutils literal notranslate"><span class="pre">bool</span></code></a></span></p>
+</dd>
+</dl>
+<section id="id7">
+<h3>Parameters:<a class="headerlink" href="#id7" title="Link to this heading"></a></h3>
+<dl class="simple">
+<dt>df<span class="classifier">pd.DataFrame</span></dt><dd><p>DataFrame to write.</p>
+</dd>
+<dt>file_path<span class="classifier">str</span></dt><dd><p>Output file path.</p>
+</dd>
+<dt><a href="#id8"><span class="problematic" id="id9">**</span></a>kwargs<span class="classifier">dict</span></dt><dd><p>Additional parameters for writing.</p>
+</dd>
+</dl>
+</section>
+<section id="id10">
+<h3>Returns:<a class="headerlink" href="#id10" title="Link to this heading"></a></h3>
+<p>:
+bool</p>
+<blockquote>
+<div><p>True if writing is successful.</p>
+</div></blockquote>
+</section>
+</dd></dl>
+
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="toxichempy.pipeline_framework.html" class="btn btn-neutral float-left" title="toxichempy.pipeline_framework package" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="contact.html" class="btn btn-neutral float-right" title="Contact Us" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Deepak Kumar Sachan.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   toxichempy.chemoinformatics
+   toxichempy.computational_toxicology
+   toxichempy.data_collection
+   toxichempy.experimental_toxicology
+   toxichempy.machine_learning
+   toxichempy.pipeline_framework
+   toxichempy.risk_assessment
+   toxichempy.statistical_analysis
+   toxichempy.utils
+   toxichempy.visualization

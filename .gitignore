@@ -1,0 +1,13 @@
+# Ignore Sphinx build output
+docs/build/
+docs/**/build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS/editor junk
+.DS_Store
+*.swp
+*.swo
+*~

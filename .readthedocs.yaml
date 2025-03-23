@@ -5,10 +5,11 @@ build:
   tools:
     python: "3.12"
 
+python:
+  install:
+    - method: poetry
+
 sphinx:
   configuration: docs/source/conf.py
 
-python:
-  install:
-    - requirements: requirements.txt
-  
+

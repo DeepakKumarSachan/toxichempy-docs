@@ -1,0 +1,517 @@
+# Input,GeneSymbol,GeneID,Ontology,GoTermName,GoTermID
+wnt5a,WNT5A,7474,Biological Process,activation of GTPase activity,GO:0090630
+wnt5a,WNT5A,7474,Biological Process,activation of protein kinase B activity,GO:0032148
+wnt5a,WNT5A,7474,Biological Process,animal organ morphogenesis,GO:0009887
+wnt5a,WNT5A,7474,Biological Process,"anterior/posterior axis specification, embryo",GO:0008595
+wnt5a,WNT5A,7474,Biological Process,anterior/posterior pattern specification,GO:0009952
+wnt5a,WNT5A,7474,Biological Process,atrial septum development,GO:0003283
+wnt5a,WNT5A,7474,Biological Process,axis elongation,GO:0003401
+wnt5a,WNT5A,7474,Biological Process,axonal fasciculation,GO:0007413
+wnt5a,WNT5A,7474,Biological Process,axon extension involved in axon guidance,GO:0048846
+wnt5a,WNT5A,7474,Biological Process,axon guidance,GO:0007411
+wnt5a,WNT5A,7474,Biological Process,axonogenesis,GO:0007409
+wnt5a,WNT5A,7474,Biological Process,BMP signaling pathway,GO:0030509
+wnt5a,WNT5A,7474,Biological Process,canonical Wnt signaling pathway,GO:0060070
+wnt5a,WNT5A,7474,Biological Process,cartilage development,GO:0051216
+wnt5a,WNT5A,7474,Biological Process,cell-cell signaling,GO:0007267
+wnt5a,WNT5A,7474,Biological Process,cell differentiation,GO:0030154
+wnt5a,WNT5A,7474,Biological Process,cell fate commitment,GO:0045165
+wnt5a,WNT5A,7474,Biological Process,cell migration,GO:0016477
+wnt5a,WNT5A,7474,Biological Process,cell population proliferation,GO:0008283
+wnt5a,WNT5A,7474,Biological Process,cellular response to calcium ion,GO:0071277
+wnt5a,WNT5A,7474,Biological Process,cellular response to lipopolysaccharide,GO:0071222
+wnt5a,WNT5A,7474,Biological Process,cellular response to molecule of bacterial origin,GO:0071219
+wnt5a,WNT5A,7474,Biological Process,cellular response to retinoic acid,GO:0071300
+wnt5a,WNT5A,7474,Biological Process,cellular response to transforming growth factor beta stimulus,GO:0071560
+wnt5a,WNT5A,7474,Biological Process,cellular response to type II interferon,GO:0071346
+wnt5a,WNT5A,7474,Biological Process,cervix development,GO:0060067
+wnt5a,WNT5A,7474,Biological Process,chemoattraction of serotonergic neuron axon,GO:0036517
+wnt5a,WNT5A,7474,Biological Process,chemorepulsion of dopaminergic neuron axon,GO:0036518
+wnt5a,WNT5A,7474,Biological Process,cochlea morphogenesis,GO:0090103
+wnt5a,WNT5A,7474,Biological Process,convergent extension,GO:0060026
+wnt5a,WNT5A,7474,Biological Process,convergent extension involved in axis elongation,GO:0060028
+wnt5a,WNT5A,7474,Biological Process,convergent extension involved in organogenesis,GO:0060029
+wnt5a,WNT5A,7474,Biological Process,cytokine production,GO:0001816
+wnt5a,WNT5A,7474,Biological Process,determination of left/right symmetry,GO:0007368
+wnt5a,WNT5A,7474,Biological Process,development of primary male sexual characteristics,GO:0046546
+wnt5a,WNT5A,7474,Biological Process,digestive tract morphogenesis,GO:0048546
+wnt5a,WNT5A,7474,Biological Process,dopaminergic neuron differentiation,GO:0071542
+wnt5a,WNT5A,7474,Biological Process,embryo development,GO:0009790
+wnt5a,WNT5A,7474,Biological Process,embryonic digit morphogenesis,GO:0042733
+wnt5a,WNT5A,7474,Biological Process,embryonic limb morphogenesis,GO:0030326
+wnt5a,WNT5A,7474,Biological Process,embryonic skeletal system development,GO:0048706
+wnt5a,WNT5A,7474,Biological Process,epithelial cell migration,GO:0010631
+wnt5a,WNT5A,7474,Biological Process,epithelial cell proliferation,GO:0050673
+wnt5a,WNT5A,7474,Biological Process,epithelial cell proliferation involved in mammary gland duct elongation,GO:0060750
+wnt5a,WNT5A,7474,Biological Process,epithelial to mesenchymal transition,GO:0001837
+wnt5a,WNT5A,7474,Biological Process,establishment of epithelial cell apical/basal polarity,GO:0045198
+wnt5a,WNT5A,7474,Biological Process,establishment of planar polarity,GO:0001736
+wnt5a,WNT5A,7474,Biological Process,estrous cycle,GO:0044849
+wnt5a,WNT5A,7474,Biological Process,excitatory synapse assembly,GO:1904861
+wnt5a,WNT5A,7474,Biological Process,face development,GO:0060324
+wnt5a,WNT5A,7474,Biological Process,fibroblast growth factor receptor signaling pathway,GO:0008543
+wnt5a,WNT5A,7474,Biological Process,genitalia development,GO:0048806
+wnt5a,WNT5A,7474,Biological Process,heart looping,GO:0001947
+wnt5a,WNT5A,7474,Biological Process,hematopoietic stem cell proliferation,GO:0071425
+wnt5a,WNT5A,7474,Biological Process,hindgut morphogenesis,GO:0007442
+wnt5a,WNT5A,7474,Biological Process,hypophysis morphogenesis,GO:0048850
+wnt5a,WNT5A,7474,Biological Process,inflammatory response,GO:0006954
+wnt5a,WNT5A,7474,Biological Process,inhibitory synapse assembly,GO:1904862
+wnt5a,WNT5A,7474,Biological Process,inner ear morphogenesis,GO:0042472
+wnt5a,WNT5A,7474,Biological Process,JNK cascade,GO:0007254
+wnt5a,WNT5A,7474,Biological Process,keratinocyte differentiation,GO:0030216
+wnt5a,WNT5A,7474,Biological Process,kidney development,GO:0001822
+wnt5a,WNT5A,7474,Biological Process,lateral sprouting involved in mammary gland duct morphogenesis,GO:0060599
+wnt5a,WNT5A,7474,Biological Process,lens development in camera-type eye,GO:0002088
+wnt5a,WNT5A,7474,Biological Process,limb morphogenesis,GO:0035108
+wnt5a,WNT5A,7474,Biological Process,lung alveolus development,GO:0048286
+wnt5a,WNT5A,7474,Biological Process,lung development,GO:0030324
+wnt5a,WNT5A,7474,Biological Process,macrophage derived foam cell differentiation,GO:0010742
+wnt5a,WNT5A,7474,Biological Process,male gonad development,GO:0008584
+wnt5a,WNT5A,7474,Biological Process,mammary gland branching involved in thelarche,GO:0060744
+wnt5a,WNT5A,7474,Biological Process,meiotic nuclear division,GO:0140013
+wnt5a,WNT5A,7474,Biological Process,melanocyte proliferation,GO:0097325
+wnt5a,WNT5A,7474,Biological Process,mesenchymal cell proliferation,GO:0010463
+wnt5a,WNT5A,7474,Biological Process,mesenchymal-epithelial cell signaling,GO:0060638
+wnt5a,WNT5A,7474,Biological Process,mesodermal to mesenchymal transition involved in gastrulation,GO:0060809
+wnt5a,WNT5A,7474,Biological Process,midbrain development,GO:0030901
+wnt5a,WNT5A,7474,Biological Process,midbrain dopaminergic neuron differentiation,GO:1904948
+wnt5a,WNT5A,7474,Biological Process,midgut development,GO:0007494
+wnt5a,WNT5A,7474,Biological Process,modulation of chemical synaptic transmission,GO:0050804
+wnt5a,WNT5A,7474,Biological Process,morphogenesis of an epithelium,GO:0002009
+wnt5a,WNT5A,7474,Biological Process,multicellular organism development,GO:0007275
+wnt5a,WNT5A,7474,Biological Process,negative chemotaxis,GO:0050919
+wnt5a,WNT5A,7474,Biological Process,negative regulation of apoptotic process,GO:0043066
+wnt5a,WNT5A,7474,Biological Process,negative regulation of axon extension involved in axon guidance,GO:0048843
+wnt5a,WNT5A,7474,Biological Process,negative regulation of BMP signaling pathway,GO:0030514
+wnt5a,WNT5A,7474,Biological Process,negative regulation of canonical Wnt signaling pathway,GO:0090090
+wnt5a,WNT5A,7474,Biological Process,negative regulation of cell proliferation in midbrain,GO:1904934
+wnt5a,WNT5A,7474,Biological Process,negative regulation of DNA-templated transcription,GO:0045892
+wnt5a,WNT5A,7474,Biological Process,negative regulation of epithelial cell proliferation,GO:0050680
+wnt5a,WNT5A,7474,Biological Process,negative regulation of fat cell differentiation,GO:0045599
+wnt5a,WNT5A,7474,Biological Process,negative regulation of fibroblast growth factor receptor signaling pathway,GO:0040037
+wnt5a,WNT5A,7474,Biological Process,negative regulation of melanin biosynthetic process,GO:0048022
+wnt5a,WNT5A,7474,Biological Process,negative regulation of mesenchymal cell proliferation,GO:0072201
+wnt5a,WNT5A,7474,Biological Process,negative regulation of prostatic bud formation,GO:0060686
+wnt5a,WNT5A,7474,Biological Process,negative regulation of synapse assembly,GO:0051964
+wnt5a,WNT5A,7474,Biological Process,neural tube closure,GO:0001843
+wnt5a,WNT5A,7474,Biological Process,neural tube development,GO:0021915
+wnt5a,WNT5A,7474,Biological Process,neurogenesis,GO:0022008
+wnt5a,WNT5A,7474,Biological Process,neuron differentiation,GO:0030182
+wnt5a,WNT5A,7474,Biological Process,neuron projection morphogenesis,GO:0048812
+wnt5a,WNT5A,7474,Biological Process,non-canonical Wnt signaling pathway,GO:0035567
+wnt5a,WNT5A,7474,Biological Process,notochord morphogenesis,GO:0048570
+wnt5a,WNT5A,7474,Biological Process,olfactory bulb interneuron development,GO:0021891
+wnt5a,WNT5A,7474,Biological Process,optic cup formation involved in camera-type eye development,GO:0003408
+wnt5a,WNT5A,7474,Biological Process,paraxial mesoderm formation,GO:0048341
+wnt5a,WNT5A,7474,Biological Process,pericardium morphogenesis,GO:0003344
+wnt5a,WNT5A,7474,Biological Process,phospholipase C-activating G protein-coupled receptor signaling pathway,GO:0007200
+wnt5a,WNT5A,7474,Biological Process,positive regulation of angiogenesis,GO:0045766
+wnt5a,WNT5A,7474,Biological Process,positive regulation of apoptotic signaling pathway,GO:2001235
+wnt5a,WNT5A,7474,Biological Process,positive regulation of cartilage development,GO:0061036
+wnt5a,WNT5A,7474,Biological Process,positive regulation of cell-cell adhesion,GO:0022409
+wnt5a,WNT5A,7474,Biological Process,positive regulation of cell-cell adhesion mediated by cadherin,GO:2000049
+wnt5a,WNT5A,7474,Biological Process,positive regulation of chemokine production,GO:0032722
+wnt5a,WNT5A,7474,Biological Process,positive regulation of cytokine production,GO:0001819
+wnt5a,WNT5A,7474,Biological Process,positive regulation of cytokine production involved in immune response,GO:0002720
+wnt5a,WNT5A,7474,Biological Process,positive regulation of dendrite extension,GO:1903861
+wnt5a,WNT5A,7474,Biological Process,positive regulation of dendrite morphogenesis,GO:0050775
+wnt5a,WNT5A,7474,Biological Process,positive regulation of DNA-templated transcription,GO:0045893
+wnt5a,WNT5A,7474,Biological Process,positive regulation of endocytosis,GO:0045807
+wnt5a,WNT5A,7474,Biological Process,positive regulation of endothelial cell migration,GO:0010595
+wnt5a,WNT5A,7474,Biological Process,positive regulation of endothelial cell proliferation,GO:0001938
+wnt5a,WNT5A,7474,Biological Process,positive regulation of epithelial cell proliferation,GO:0050679
+wnt5a,WNT5A,7474,Biological Process,positive regulation of fibroblast proliferation,GO:0048146
+wnt5a,WNT5A,7474,Biological Process,positive regulation of gene expression,GO:0010628
+wnt5a,WNT5A,7474,Biological Process,positive regulation of GTPase activity,GO:0043547
+wnt5a,WNT5A,7474,Biological Process,positive regulation of hematopoietic stem cell proliferation,GO:1902035
+wnt5a,WNT5A,7474,Biological Process,positive regulation of inflammatory response,GO:0050729
+wnt5a,WNT5A,7474,Biological Process,positive regulation of interleukin-1 beta production,GO:0032731
+wnt5a,WNT5A,7474,Biological Process,positive regulation of interleukin-6 production,GO:0032755
+wnt5a,WNT5A,7474,Biological Process,positive regulation of interleukin-8 production,GO:0032757
+wnt5a,WNT5A,7474,Biological Process,positive regulation of JNK cascade,GO:0046330
+wnt5a,WNT5A,7474,Biological Process,positive regulation of JUN kinase activity,GO:0043507
+wnt5a,WNT5A,7474,Biological Process,positive regulation of macrophage activation,GO:0043032
+wnt5a,WNT5A,7474,Biological Process,positive regulation of macrophage cytokine production,GO:0060907
+wnt5a,WNT5A,7474,Biological Process,positive regulation of MAPK cascade,GO:0043410
+wnt5a,WNT5A,7474,Biological Process,positive regulation of meiotic nuclear division,GO:0045836
+wnt5a,WNT5A,7474,Biological Process,positive regulation of mesenchymal cell proliferation,GO:0002053
+wnt5a,WNT5A,7474,Biological Process,positive regulation of neuron projection arborization,GO:0150012
+wnt5a,WNT5A,7474,Biological Process,positive regulation of neuron projection development,GO:0010976
+wnt5a,WNT5A,7474,Biological Process,positive regulation of NF-kappaB transcription factor activity,GO:0051092
+wnt5a,WNT5A,7474,Biological Process,positive regulation of non-canonical Wnt signaling pathway,GO:2000052
+wnt5a,WNT5A,7474,Biological Process,positive regulation of ossification,GO:0045778
+wnt5a,WNT5A,7474,Biological Process,positive regulation of peptidyl-serine phosphorylation,GO:0033138
+wnt5a,WNT5A,7474,Biological Process,positive regulation of peptidyl-threonine phosphorylation,GO:0010800
+wnt5a,WNT5A,7474,Biological Process,positive regulation of protein binding,GO:0032092
+wnt5a,WNT5A,7474,Biological Process,positive regulation of protein catabolic process,GO:0045732
+wnt5a,WNT5A,7474,Biological Process,positive regulation of protein kinase C activity,GO:1900020
+wnt5a,WNT5A,7474,Biological Process,positive regulation of protein kinase C signaling,GO:0090037
+wnt5a,WNT5A,7474,Biological Process,positive regulation of protein localization to synapse,GO:1902474
+wnt5a,WNT5A,7474,Biological Process,positive regulation of protein phosphorylation,GO:0001934
+wnt5a,WNT5A,7474,Biological Process,positive regulation of response to cytokine stimulus,GO:0060760
+wnt5a,WNT5A,7474,Biological Process,positive regulation of stem cell proliferation,GO:2000648
+wnt5a,WNT5A,7474,Biological Process,positive regulation of T cell chemotaxis,GO:0010820
+wnt5a,WNT5A,7474,Biological Process,positive regulation of thymocyte apoptotic process,GO:0070245
+wnt5a,WNT5A,7474,Biological Process,positive regulation of timing of anagen,GO:0051885
+wnt5a,WNT5A,7474,Biological Process,positive regulation of transcription by RNA polymerase II,GO:0045944
+wnt5a,WNT5A,7474,Biological Process,positive regulation of tumor necrosis factor production,GO:0032760
+wnt5a,WNT5A,7474,Biological Process,positive regulation of type II interferon production,GO:0032729
+wnt5a,WNT5A,7474,Biological Process,positive regulation of type I interferon-mediated signaling pathway,GO:0060340
+wnt5a,WNT5A,7474,Biological Process,post-anal tail morphogenesis,GO:0036342
+wnt5a,WNT5A,7474,Biological Process,postsynapse assembly,GO:0099068
+wnt5a,WNT5A,7474,Biological Process,postsynaptic modulation of chemical synaptic transmission,GO:0099170
+wnt5a,WNT5A,7474,Biological Process,presynapse assembly,GO:0099054
+wnt5a,WNT5A,7474,Biological Process,primary heart field specification,GO:0003138
+wnt5a,WNT5A,7474,Biological Process,primitive streak formation,GO:0090009
+wnt5a,WNT5A,7474,Biological Process,pronephros development,GO:0048793
+wnt5a,WNT5A,7474,Biological Process,prostate gland development,GO:0030850
+wnt5a,WNT5A,7474,Biological Process,protein localization,GO:0008104
+wnt5a,WNT5A,7474,Biological Process,protein phosphorylation,GO:0006468
+wnt5a,WNT5A,7474,Biological Process,regulation of branching involved in mammary gland duct morphogenesis,GO:0060762
+wnt5a,WNT5A,7474,Biological Process,regulation of I-kappaB kinase/NF-kappaB signaling,GO:0043122
+wnt5a,WNT5A,7474,Biological Process,regulation of inflammatory response,GO:0050727
+wnt5a,WNT5A,7474,Biological Process,regulation of postsynapse organization,GO:0099175
+wnt5a,WNT5A,7474,Biological Process,regulation of postsynaptic cytosolic calcium ion concentration,GO:0099566
+wnt5a,WNT5A,7474,Biological Process,regulation of postsynaptic specialization assembly,GO:0099150
+wnt5a,WNT5A,7474,Biological Process,regulation of protein localization,GO:0032880
+wnt5a,WNT5A,7474,Biological Process,regulation of synapse organization,GO:0050807
+wnt5a,WNT5A,7474,Biological Process,regulation of synaptic signaling by nitric oxide,GO:0150045
+wnt5a,WNT5A,7474,Biological Process,response to estradiol,GO:0032355
+wnt5a,WNT5A,7474,Biological Process,response to glucocorticoid,GO:0051384
+wnt5a,WNT5A,7474,Biological Process,response to hyperoxia,GO:0055093
+wnt5a,WNT5A,7474,Biological Process,response to quercetin,GO:1905235
+wnt5a,WNT5A,7474,Biological Process,response to testosterone,GO:0033574
+wnt5a,WNT5A,7474,Biological Process,secondary heart field specification,GO:0003139
+wnt5a,WNT5A,7474,Biological Process,secondary palate development,GO:0062009
+wnt5a,WNT5A,7474,Biological Process,signal transduction,GO:0007165
+wnt5a,WNT5A,7474,Biological Process,somite development,GO:0061053
+wnt5a,WNT5A,7474,Biological Process,somitogenesis,GO:0001756
+wnt5a,WNT5A,7474,Biological Process,stem cell proliferation,GO:0072089
+wnt5a,WNT5A,7474,Biological Process,thymocyte apoptotic process,GO:0070242
+wnt5a,WNT5A,7474,Biological Process,tube closure,GO:0060606
+wnt5a,WNT5A,7474,Biological Process,type B pancreatic cell development,GO:0003323
+wnt5a,WNT5A,7474,Biological Process,urinary bladder development,GO:0060157
+wnt5a,WNT5A,7474,Biological Process,uterus development,GO:0060065
+wnt5a,WNT5A,7474,Biological Process,vagina development,GO:0060068
+wnt5a,WNT5A,7474,Biological Process,ventricular septum development,GO:0003281
+wnt5a,WNT5A,7474,Biological Process,Wnt signaling pathway,GO:0016055
+wnt5a,WNT5A,7474,Biological Process,"Wnt signaling pathway, calcium modulating pathway",GO:0007223
+wnt5a,WNT5A,7474,Biological Process,"Wnt signaling pathway, planar cell polarity pathway",GO:0060071
+wnt5a,WNT5A,7474,Biological Process,wound healing,GO:0042060
+xbp1,XBP1,7494,Biological Process,adipose tissue development,GO:0060612
+xbp1,XBP1,7494,Biological Process,angiogenesis,GO:0001525
+xbp1,XBP1,7494,Biological Process,ATF6-mediated unfolded protein response,GO:0036500
+xbp1,XBP1,7494,Biological Process,autophagy,GO:0006914
+xbp1,XBP1,7494,Biological Process,cellular response to amino acid stimulus,GO:0071230
+xbp1,XBP1,7494,Biological Process,cellular response to antibiotic,GO:0071236
+xbp1,XBP1,7494,Biological Process,cellular response to fluid shear stress,GO:0071498
+xbp1,XBP1,7494,Biological Process,cellular response to fructose stimulus,GO:0071332
+xbp1,XBP1,7494,Biological Process,cellular response to glucose starvation,GO:0042149
+xbp1,XBP1,7494,Biological Process,cellular response to glucose stimulus,GO:0071333
+xbp1,XBP1,7494,Biological Process,cellular response to insulin stimulus,GO:0032869
+xbp1,XBP1,7494,Biological Process,cellular response to interleukin-4,GO:0071353
+xbp1,XBP1,7494,Biological Process,cellular response to laminar fluid shear stress,GO:0071499
+xbp1,XBP1,7494,Biological Process,cellular response to leukemia inhibitory factor,GO:1990830
+xbp1,XBP1,7494,Biological Process,cellular response to lipopolysaccharide,GO:0071222
+xbp1,XBP1,7494,Biological Process,cellular response to nutrient,GO:0031670
+xbp1,XBP1,7494,Biological Process,cellular response to oxidative stress,GO:0034599
+xbp1,XBP1,7494,Biological Process,cellular response to peptide hormone stimulus,GO:0071375
+xbp1,XBP1,7494,Biological Process,cellular response to vascular endothelial growth factor stimulus,GO:0035924
+xbp1,XBP1,7494,Biological Process,cellular triglyceride homeostasis,GO:0035356
+xbp1,XBP1,7494,Biological Process,cholesterol homeostasis,GO:0042632
+xbp1,XBP1,7494,Biological Process,endoplasmic reticulum unfolded protein response,GO:0030968
+xbp1,XBP1,7494,Biological Process,endothelial cell proliferation,GO:0001935
+xbp1,XBP1,7494,Biological Process,epithelial cell maturation involved in salivary gland development,GO:0060691
+xbp1,XBP1,7494,Biological Process,ERAD pathway,GO:0036503
+xbp1,XBP1,7494,Biological Process,exocrine pancreas development,GO:0031017
+xbp1,XBP1,7494,Biological Process,fatty acid biosynthetic process,GO:0006633
+xbp1,XBP1,7494,Biological Process,fatty acid homeostasis,GO:0055089
+xbp1,XBP1,7494,Biological Process,glandular epithelial cell maturation,GO:0002071
+xbp1,XBP1,7494,Biological Process,hatching,GO:0035188
+xbp1,XBP1,7494,Biological Process,hatching gland development,GO:0048785
+xbp1,XBP1,7494,Biological Process,immune response,GO:0006955
+xbp1,XBP1,7494,Biological Process,intestinal stem cell homeostasis,GO:0036335
+xbp1,XBP1,7494,Biological Process,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,GO:0070059
+xbp1,XBP1,7494,Biological Process,IRE1-mediated unfolded protein response,GO:0036498
+xbp1,XBP1,7494,Biological Process,lipid metabolic process,GO:0006629
+xbp1,XBP1,7494,Biological Process,liver development,GO:0001889
+xbp1,XBP1,7494,Biological Process,muscle organ development,GO:0007517
+xbp1,XBP1,7494,Biological Process,negative regulation of apoptotic process,GO:0043066
+xbp1,XBP1,7494,Biological Process,negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,GO:1902236
+xbp1,XBP1,7494,Biological Process,negative regulation of endoplasmic reticulum unfolded protein response,GO:1900102
+xbp1,XBP1,7494,Biological Process,negative regulation of ERK1 and ERK2 cascade,GO:0070373
+xbp1,XBP1,7494,Biological Process,negative regulation of myotube differentiation,GO:0010832
+xbp1,XBP1,7494,Biological Process,negative regulation of organ growth,GO:0046621
+xbp1,XBP1,7494,Biological Process,negative regulation of SMAD protein signal transduction,GO:0060392
+xbp1,XBP1,7494,Biological Process,negative regulation of transcription by RNA polymerase II,GO:0000122
+xbp1,XBP1,7494,Biological Process,negative regulation of transforming growth factor beta receptor signaling pathway,GO:0030512
+xbp1,XBP1,7494,Biological Process,neuron development,GO:0048666
+xbp1,XBP1,7494,Biological Process,positive regulation of angiogenesis,GO:0045766
+xbp1,XBP1,7494,Biological Process,positive regulation of autophagy,GO:0010508
+xbp1,XBP1,7494,Biological Process,positive regulation of B cell differentiation,GO:0045579
+xbp1,XBP1,7494,Biological Process,positive regulation of cell migration,GO:0030335
+xbp1,XBP1,7494,Biological Process,positive regulation of cell population proliferation,GO:0008284
+xbp1,XBP1,7494,Biological Process,positive regulation of endoplasmic reticulum unfolded protein response,GO:1900103
+xbp1,XBP1,7494,Biological Process,positive regulation of endothelial cell apoptotic process,GO:2000353
+xbp1,XBP1,7494,Biological Process,positive regulation of ERAD pathway,GO:1904294
+xbp1,XBP1,7494,Biological Process,positive regulation of fat cell differentiation,GO:0045600
+xbp1,XBP1,7494,Biological Process,positive regulation of hepatocyte proliferation,GO:2000347
+xbp1,XBP1,7494,Biological Process,positive regulation of immunoglobulin production,GO:0002639
+xbp1,XBP1,7494,Biological Process,positive regulation of interleukin-6 production,GO:0032755
+xbp1,XBP1,7494,Biological Process,positive regulation of lactation,GO:1903489
+xbp1,XBP1,7494,Biological Process,positive regulation of MHC class II biosynthetic process,GO:0045348
+xbp1,XBP1,7494,Biological Process,positive regulation of phospholipid biosynthetic process,GO:0071073
+xbp1,XBP1,7494,Biological Process,positive regulation of plasma cell differentiation,GO:1900100
+xbp1,XBP1,7494,Biological Process,positive regulation of proteasomal protein catabolic process,GO:1901800
+xbp1,XBP1,7494,Biological Process,positive regulation of protein acetylation,GO:1901985
+xbp1,XBP1,7494,Biological Process,positive regulation of protein import into nucleus,GO:0042307
+xbp1,XBP1,7494,Biological Process,positive regulation of protein kinase B signaling,GO:0051897
+xbp1,XBP1,7494,Biological Process,positive regulation of protein phosphorylation,GO:0001934
+xbp1,XBP1,7494,Biological Process,positive regulation of T cell differentiation,GO:0045582
+xbp1,XBP1,7494,Biological Process,positive regulation of TOR signaling,GO:0032008
+xbp1,XBP1,7494,Biological Process,positive regulation of transcription by RNA polymerase II,GO:0045944
+xbp1,XBP1,7494,Biological Process,positive regulation of vascular associated smooth muscle cell migration,GO:1904754
+xbp1,XBP1,7494,Biological Process,positive regulation of vascular associated smooth muscle cell proliferation,GO:1904707
+xbp1,XBP1,7494,Biological Process,positive regulation of vascular wound healing,GO:0035470
+xbp1,XBP1,7494,Biological Process,protein destabilization,GO:0031648
+xbp1,XBP1,7494,Biological Process,protein kinase B signaling,GO:0043491
+xbp1,XBP1,7494,Biological Process,protein transport,GO:0015031
+xbp1,XBP1,7494,Biological Process,regulation of autophagy,GO:0010506
+xbp1,XBP1,7494,Biological Process,regulation of axon regeneration,GO:0048679
+xbp1,XBP1,7494,Biological Process,regulation of cell growth,GO:0001558
+xbp1,XBP1,7494,Biological Process,regulation of DNA-templated transcription,GO:0006355
+xbp1,XBP1,7494,Biological Process,regulation of protein stability,GO:0031647
+xbp1,XBP1,7494,Biological Process,regulation of transcription by RNA polymerase II,GO:0006357
+xbp1,XBP1,7494,Biological Process,regulation of translation in response to endoplasmic reticulum stress,GO:0036490
+xbp1,XBP1,7494,Biological Process,response to electrical stimulus,GO:0051602
+xbp1,XBP1,7494,Biological Process,response to endoplasmic reticulum stress,GO:0034976
+xbp1,XBP1,7494,Biological Process,response to insulin-like growth factor stimulus,GO:1990418
+xbp1,XBP1,7494,Biological Process,response to nutrient,GO:0007584
+xbp1,XBP1,7494,Biological Process,response to xenobiotic stimulus,GO:0009410
+xbp1,XBP1,7494,Biological Process,"serotonin secretion, neurotransmission",GO:0060096
+xbp1,XBP1,7494,Biological Process,sterol homeostasis,GO:0055092
+xbp1,XBP1,7494,Biological Process,transcription by RNA polymerase II,GO:0006366
+xbp1,XBP1,7494,Biological Process,triglyceride mobilization,GO:0006642
+xbp1,XBP1,7494,Biological Process,ubiquitin-dependent protein catabolic process,GO:0006511
+xbp1,XBP1,7494,Biological Process,vascular endothelial growth factor receptor signaling pathway,GO:0048010
+xk,XK,7504,Biological Process,amino acid transport,GO:0006865
+xk,XK,7504,Biological Process,biological_process,GO:0008150
+xk,XK,7504,Biological Process,carbohydrate metabolic process,GO:0005975
+xk,XK,7504,Biological Process,cellular calcium ion homeostasis,GO:0006874
+xk,XK,7504,Biological Process,cellular magnesium ion homeostasis,GO:0010961
+xk,XK,7504,Biological Process,myelination,GO:0042552
+xk,XK,7504,Biological Process,peptide modification,GO:0031179
+xk,XK,7504,Biological Process,regulation of axon diameter,GO:0031133
+xk,XK,7504,Biological Process,regulation of cell size,GO:0008361
+xk,XK,7504,Biological Process,skeletal muscle fiber development,GO:0048741
+xpa,XPA,7507,Biological Process,base-excision repair,GO:0006284
+xpa,XPA,7507,Biological Process,cellular response to DNA damage stimulus,GO:0006974
+xpa,XPA,7507,Biological Process,DNA repair,GO:0006281
+xpa,XPA,7507,Biological Process,intrinsic apoptotic signaling pathway in response to DNA damage,GO:0008630
+xpa,XPA,7507,Biological Process,multicellular organism growth,GO:0035264
+xpa,XPA,7507,Biological Process,nucleotide-excision repair,GO:0006289
+xpa,XPA,7507,Biological Process,"nucleotide-excision repair, DNA damage recognition",GO:0000715
+xpa,XPA,7507,Biological Process,nucleotide-excision repair involved in interstrand cross-link repair,GO:1901255
+xpa,XPA,7507,Biological Process,positive regulation of transcription initiation by RNA polymerase II,GO:0060261
+xpa,XPA,7507,Biological Process,protein localization to nucleus,GO:0034504
+xpa,XPA,7507,Biological Process,regulation of autophagy,GO:0010506
+xpa,XPA,7507,Biological Process,response to auditory stimulus,GO:0010996
+xpa,XPA,7507,Biological Process,response to oxidative stress,GO:0006979
+xpa,XPA,7507,Biological Process,response to toxic substance,GO:0009636
+xpa,XPA,7507,Biological Process,response to UV,GO:0009411
+xpa,XPA,7507,Biological Process,UV-damage excision repair,GO:0070914
+xpa,XPA,7507,Biological Process,UV protection,GO:0009650
+xrcc1,XRCC1,7515,Biological Process,anatomical structure morphogenesis,GO:0009653
+xrcc1,XRCC1,7515,Biological Process,ATP synthesis coupled electron transport,GO:0042773
+xrcc1,XRCC1,7515,Biological Process,base-excision repair,GO:0006284
+xrcc1,XRCC1,7515,Biological Process,cellular response to DNA damage stimulus,GO:0006974
+xrcc1,XRCC1,7515,Biological Process,cerebellum morphogenesis,GO:0021587
+xrcc1,XRCC1,7515,Biological Process,DNA repair,GO:0006281
+xrcc1,XRCC1,7515,Biological Process,double-strand break repair,GO:0006302
+xrcc1,XRCC1,7515,Biological Process,double-strand break repair via nonhomologous end joining,GO:0006303
+xrcc1,XRCC1,7515,Biological Process,hippocampus development,GO:0021766
+xrcc1,XRCC1,7515,Biological Process,negative regulation of protection from non-homologous end joining at telomere,GO:1905765
+xrcc1,XRCC1,7515,Biological Process,negative regulation of protein ADP-ribosylation,GO:0010836
+xrcc1,XRCC1,7515,Biological Process,positive regulation of single strand break repair,GO:1903518
+xrcc1,XRCC1,7515,Biological Process,replication-born double-strand break repair via sister chromatid exchange,GO:1990414
+xrcc1,XRCC1,7515,Biological Process,response to hydroperoxide,GO:0033194
+xrcc1,XRCC1,7515,Biological Process,response to hypoxia,GO:0001666
+xrcc1,XRCC1,7515,Biological Process,response to xenobiotic stimulus,GO:0009410
+xrcc1,XRCC1,7515,Biological Process,single strand break repair,GO:0000012
+xrcc1,XRCC1,7515,Biological Process,telomeric DNA-containing double minutes formation,GO:0061819
+xrcc1,XRCC1,7515,Biological Process,voluntary musculoskeletal movement,GO:0050882
+xylb,XYLB,9942,Biological Process,carbohydrate metabolic process,GO:0005975
+xylb,XYLB,9942,Biological Process,carbohydrate phosphorylation,GO:0046835
+xylb,XYLB,9942,Biological Process,D-xylose metabolic process,GO:0042732
+xylb,XYLB,9942,Biological Process,generation of precursor metabolites and energy,GO:0006091
+xylb,XYLB,9942,Biological Process,glucuronate catabolic process to xylulose 5-phosphate,GO:0019640
+xylb,XYLB,9942,Biological Process,phosphorylation,GO:0016310
+xylb,XYLB,9942,Biological Process,proteolysis,GO:0006508
+xylb,XYLB,9942,Biological Process,xylulose catabolic process,GO:0005998
+xylb,XYLB,9942,Biological Process,xylulose metabolic process,GO:0005997
+yes1,YES1,7525,Biological Process,adherens junction maintenance,GO:0034334
+yes1,YES1,7525,Biological Process,amino acid catabolic process,GO:0009063
+yes1,YES1,7525,Biological Process,carbohydrate catabolic process,GO:0016052
+yes1,YES1,7525,Biological Process,cell differentiation,GO:0030154
+yes1,YES1,7525,Biological Process,cellular response to platelet-derived growth factor stimulus,GO:0036120
+yes1,YES1,7525,Biological Process,cellular response to retinoic acid,GO:0071300
+yes1,YES1,7525,Biological Process,cellular response to transforming growth factor beta stimulus,GO:0071560
+yes1,YES1,7525,Biological Process,convergent extension involved in gastrulation,GO:0060027
+yes1,YES1,7525,Biological Process,ephrin receptor signaling pathway,GO:0048013
+yes1,YES1,7525,Biological Process,Fc-gamma receptor signaling pathway involved in phagocytosis,GO:0038096
+yes1,YES1,7525,Biological Process,innate immune response,GO:0045087
+yes1,YES1,7525,Biological Process,leukocyte migration,GO:0050900
+yes1,YES1,7525,Biological Process,multicellular organism development,GO:0007275
+yes1,YES1,7525,Biological Process,negative regulation of inflammatory response to antigenic stimulus,GO:0002862
+yes1,YES1,7525,Biological Process,phosphorylation,GO:0016310
+yes1,YES1,7525,Biological Process,positive regulation of kinase activity,GO:0033674
+yes1,YES1,7525,Biological Process,positive regulation of peptidyl-tyrosine phosphorylation,GO:0050731
+yes1,YES1,7525,Biological Process,positive regulation of transcription by RNA polymerase II,GO:0045944
+yes1,YES1,7525,Biological Process,protein autophosphorylation,GO:0046777
+yes1,YES1,7525,Biological Process,protein modification process,GO:0036211
+yes1,YES1,7525,Biological Process,protein phosphorylation,GO:0006468
+yes1,YES1,7525,Biological Process,regulation of glucose transmembrane transport,GO:0010827
+yes1,YES1,7525,Biological Process,regulation of protein kinase activity,GO:0045859
+yes1,YES1,7525,Biological Process,regulation of vascular permeability,GO:0043114
+yes1,YES1,7525,Biological Process,T cell costimulation,GO:0031295
+yes1,YES1,7525,Biological Process,transmembrane receptor protein tyrosine kinase signaling pathway,GO:0007169
+ythdc2,YTHDC2,64848,Biological Process,"germline cell cycle switching, mitotic to meiotic cell cycle",GO:0051729
+ythdc2,YTHDC2,64848,Biological Process,meiotic cell cycle,GO:0051321
+ythdc2,YTHDC2,64848,Biological Process,"mRNA splicing, via spliceosome",GO:0000398
+ythdc2,YTHDC2,64848,Biological Process,oocyte development,GO:0048599
+ythdc2,YTHDC2,64848,Biological Process,positive regulation by host of viral genome replication,GO:0044829
+ythdc2,YTHDC2,64848,Biological Process,protein geranylgeranylation,GO:0018344
+ythdc2,YTHDC2,64848,Biological Process,"regulation of alternative mRNA splicing, via spliceosome",GO:0000381
+ythdc2,YTHDC2,64848,Biological Process,response to interleukin-1,GO:0070555
+ythdc2,YTHDC2,64848,Biological Process,response to tumor necrosis factor,GO:0034612
+ythdc2,YTHDC2,64848,Biological Process,spermatid development,GO:0007286
+ythdc2,YTHDC2,64848,Biological Process,spermatogenesis,GO:0007283
+zc3h10,ZC3H10,84872,Biological Process,endoplasmic reticulum-plasma membrane tethering,GO:0061817
+zc3h10,ZC3H10,84872,Biological Process,lipid transport,GO:0006869
+zc3h10,ZC3H10,84872,Biological Process,"mitochondrial electron transport, cytochrome c to oxygen",GO:0006123
+zc3h10,ZC3H10,84872,Biological Process,negative regulation of miRNA maturation,GO:1903799
+zc3h10,ZC3H10,84872,Biological Process,post-transcriptional regulation of gene expression,GO:0010608
+zc3h10,ZC3H10,84872,Biological Process,regulation of RNA splicing,GO:0043484
+zeb1,ZEB1,6935,Biological Process,anatomical structure development,GO:0048856
+zeb1,ZEB1,6935,Biological Process,animal organ development,GO:0048513
+zeb1,ZEB1,6935,Biological Process,cartilage development,GO:0051216
+zeb1,ZEB1,6935,Biological Process,cell differentiation,GO:0030154
+zeb1,ZEB1,6935,Biological Process,cell population proliferation,GO:0008283
+zeb1,ZEB1,6935,Biological Process,cellular response to amino acid stimulus,GO:0071230
+zeb1,ZEB1,6935,Biological Process,cellular response to transforming growth factor beta stimulus,GO:0071560
+zeb1,ZEB1,6935,Biological Process,central nervous system development,GO:0007417
+zeb1,ZEB1,6935,Biological Process,cochlea morphogenesis,GO:0090103
+zeb1,ZEB1,6935,Biological Process,embryonic camera-type eye morphogenesis,GO:0048596
+zeb1,ZEB1,6935,Biological Process,embryonic morphogenesis,GO:0048598
+zeb1,ZEB1,6935,Biological Process,embryonic skeletal system morphogenesis,GO:0048704
+zeb1,ZEB1,6935,Biological Process,epithelial cell proliferation,GO:0050673
+zeb1,ZEB1,6935,Biological Process,forebrain development,GO:0030900
+zeb1,ZEB1,6935,Biological Process,keratinocyte proliferation,GO:0043616
+zeb1,ZEB1,6935,Biological Process,negative regulation of DNA-templated transcription,GO:0045892
+zeb1,ZEB1,6935,Biological Process,negative regulation of endothelial cell differentiation,GO:0045602
+zeb1,ZEB1,6935,Biological Process,negative regulation of epithelial cell differentiation,GO:0030857
+zeb1,ZEB1,6935,Biological Process,negative regulation of epithelial cell proliferation,GO:0050680
+zeb1,ZEB1,6935,Biological Process,negative regulation of keratinocyte proliferation,GO:0010839
+zeb1,ZEB1,6935,Biological Process,negative regulation of transcription by RNA polymerase II,GO:0000122
+zeb1,ZEB1,6935,Biological Process,pattern specification process,GO:0007389
+zeb1,ZEB1,6935,Biological Process,positive regulation of neuron differentiation,GO:0045666
+zeb1,ZEB1,6935,Biological Process,positive regulation of transcription by RNA polymerase II,GO:0045944
+zeb1,ZEB1,6935,Biological Process,regulation of DNA-templated transcription,GO:0006355
+zeb1,ZEB1,6935,Biological Process,regulation of mesenchymal cell proliferation,GO:0010464
+zeb1,ZEB1,6935,Biological Process,regulation of smooth muscle cell differentiation,GO:0051150
+zeb1,ZEB1,6935,Biological Process,regulation of T cell differentiation in thymus,GO:0033081
+zeb1,ZEB1,6935,Biological Process,regulation of transcription by RNA polymerase II,GO:0006357
+zeb1,ZEB1,6935,Biological Process,regulation of transforming growth factor beta receptor signaling pathway,GO:0017015
+zeb1,ZEB1,6935,Biological Process,response to activity,GO:0014823
+zeb1,ZEB1,6935,Biological Process,response to nutrient levels,GO:0031667
+zeb1,ZEB1,6935,Biological Process,semicircular canal morphogenesis,GO:0048752
+zeb2,ZEB2,9839,Biological Process,anatomical structure development,GO:0048856
+zeb2,ZEB2,9839,Biological Process,astrocyte activation,GO:0048143
+zeb2,ZEB2,9839,Biological Process,cell proliferation in forebrain,GO:0021846
+zeb2,ZEB2,9839,Biological Process,central nervous system development,GO:0007417
+zeb2,ZEB2,9839,Biological Process,collateral sprouting,GO:0048668
+zeb2,ZEB2,9839,Biological Process,corpus callosum morphogenesis,GO:0021540
+zeb2,ZEB2,9839,Biological Process,corticospinal tract morphogenesis,GO:0021957
+zeb2,ZEB2,9839,Biological Process,developmental pigmentation,GO:0048066
+zeb2,ZEB2,9839,Biological Process,embryonic morphogenesis,GO:0048598
+zeb2,ZEB2,9839,Biological Process,endothelial cell migration,GO:0043542
+zeb2,ZEB2,9839,Biological Process,endothelial cell proliferation,GO:0001935
+zeb2,ZEB2,9839,Biological Process,fibroblast activation,GO:0072537
+zeb2,ZEB2,9839,Biological Process,hippocampus development,GO:0021766
+zeb2,ZEB2,9839,Biological Process,mammillary axonal complex development,GO:0061373
+zeb2,ZEB2,9839,Biological Process,melanocyte migration,GO:0097324
+zeb2,ZEB2,9839,Biological Process,myofibroblast differentiation,GO:0036446
+zeb2,ZEB2,9839,Biological Process,negative regulation of fibroblast migration,GO:0010764
+zeb2,ZEB2,9839,Biological Process,negative regulation of transcription by RNA polymerase II,GO:0000122
+zeb2,ZEB2,9839,Biological Process,nervous system development,GO:0007399
+zeb2,ZEB2,9839,Biological Process,neural crest cell migration,GO:0001755
+zeb2,ZEB2,9839,Biological Process,neural tube closure,GO:0001843
+zeb2,ZEB2,9839,Biological Process,positive regulation of axonogenesis,GO:0050772
+zeb2,ZEB2,9839,Biological Process,positive regulation of canonical Wnt signaling pathway,GO:0090263
+zeb2,ZEB2,9839,Biological Process,positive regulation of JUN kinase activity,GO:0043507
+zeb2,ZEB2,9839,Biological Process,positive regulation of lens fiber cell differentiation,GO:1902748
+zeb2,ZEB2,9839,Biological Process,positive regulation of melanin biosynthetic process,GO:0048023
+zeb2,ZEB2,9839,Biological Process,positive regulation of melanocyte differentiation,GO:0045636
+zeb2,ZEB2,9839,Biological Process,positive regulation of myofibroblast contraction,GO:1904330
+zeb2,ZEB2,9839,Biological Process,positive regulation of transcription by RNA polymerase II,GO:0045944
+zeb2,ZEB2,9839,Biological Process,positive regulation of transforming growth factor beta receptor signaling pathway,GO:0030511
+zeb2,ZEB2,9839,Biological Process,positive regulation of Wnt signaling pathway,GO:0030177
+zeb2,ZEB2,9839,Biological Process,pyroptosis,GO:0070269
+zeb2,ZEB2,9839,Biological Process,regulation of blood-brain barrier permeability,GO:1905603
+zeb2,ZEB2,9839,Biological Process,regulation of melanosome organization,GO:1903056
+zeb2,ZEB2,9839,Biological Process,regulation of myofibroblast cell apoptotic process,GO:1904520
+zeb2,ZEB2,9839,Biological Process,regulation of transcription by RNA polymerase II,GO:0006357
+zeb2,ZEB2,9839,Biological Process,response to oxygen-glucose deprivation,GO:0090649
+zeb2,ZEB2,9839,Biological Process,somitogenesis,GO:0001756
+zeb2,ZEB2,9839,Biological Process,stress fiber assembly,GO:0043149
+zfand3,ZFAND3,60685,Biological Process,biological_process,GO:0008150
+zfand3,ZFAND3,60685,Biological Process,cellular iron ion homeostasis,GO:0006879
+zfand3,ZFAND3,60685,Biological Process,endocrine pancreas development,GO:0031018
+zfand3,ZFAND3,60685,Biological Process,intracellular sequestering of iron ion,GO:0006880
+zfand3,ZFAND3,60685,Biological Process,iron ion transport,GO:0006826
+zfp36,ZFP36,7538,Biological Process,3'-UTR-mediated mRNA destabilization,GO:0061158
+zfp36,ZFP36,7538,Biological Process,3'-UTR-mediated mRNA stabilization,GO:0070935
+zfp36,ZFP36,7538,Biological Process,cellular response to epidermal growth factor stimulus,GO:0071364
+zfp36,ZFP36,7538,Biological Process,cellular response to fibroblast growth factor stimulus,GO:0044344
+zfp36,ZFP36,7538,Biological Process,cellular response to glucocorticoid stimulus,GO:0071385
+zfp36,ZFP36,7538,Biological Process,cellular response to granulocyte macrophage colony-stimulating factor stimulus,GO:0097011
+zfp36,ZFP36,7538,Biological Process,cellular response to lipopolysaccharide,GO:0071222
+zfp36,ZFP36,7538,Biological Process,cellular response to tumor necrosis factor,GO:0071356
+zfp36,ZFP36,7538,Biological Process,hematopoietic stem cell differentiation,GO:0060218
+zfp36,ZFP36,7538,Biological Process,intracellular signal transduction,GO:0035556
+zfp36,ZFP36,7538,Biological Process,MAPK cascade,GO:0000165
+zfp36,ZFP36,7538,Biological Process,miRNA-mediated gene silencing by inhibition of translation,GO:0035278
+zfp36,ZFP36,7538,Biological Process,mRNA catabolic process,GO:0006402
+zfp36,ZFP36,7538,Biological Process,mRNA transport,GO:0051028
+zfp36,ZFP36,7538,Biological Process,myeloid cell differentiation,GO:0030099
+zfp36,ZFP36,7538,Biological Process,negative regulation of 3'-UTR-mediated mRNA stabilization,GO:1905869
+zfp36,ZFP36,7538,Biological Process,negative regulation of cytokine production involved in inflammatory response,GO:1900016
+zfp36,ZFP36,7538,Biological Process,negative regulation of erythrocyte differentiation,GO:0045647
+zfp36,ZFP36,7538,Biological Process,negative regulation of hematopoietic stem cell differentiation,GO:1902037
+zfp36,ZFP36,7538,Biological Process,negative regulation of inflammatory response,GO:0050728
+zfp36,ZFP36,7538,Biological Process,negative regulation of interleukin-2 production,GO:0032703
+zfp36,ZFP36,7538,Biological Process,negative regulation of myeloid cell differentiation,GO:0045638
+zfp36,ZFP36,7538,Biological Process,negative regulation of polynucleotide adenylyltransferase activity,GO:1904246
+zfp36,ZFP36,7538,Biological Process,negative regulation of transcription by RNA polymerase II,GO:0000122
+zfp36,ZFP36,7538,Biological Process,negative regulation of viral transcription,GO:0032897
+zfp36,ZFP36,7538,Biological Process,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",GO:0000288
+zfp36,ZFP36,7538,Biological Process,"nuclear-transcribed mRNA catabolic process, deadenylation-independent decay",GO:0031086
+zfp36,ZFP36,7538,Biological Process,nuclear-transcribed mRNA poly(A) tail shortening,GO:0000289
+zfp36,ZFP36,7538,Biological Process,p38MAPK cascade,GO:0038066
+zfp36,ZFP36,7538,Biological Process,positive regulation of deadenylation-independent decapping of nuclear-transcribed mRNA,GO:1901835
+zfp36,ZFP36,7538,Biological Process,positive regulation of fat cell differentiation,GO:0045600
+zfp36,ZFP36,7538,Biological Process,positive regulation of intracellular mRNA localization,GO:1904582
+zfp36,ZFP36,7538,Biological Process,positive regulation of miRNA-mediated gene silencing,GO:2000637
+zfp36,ZFP36,7538,Biological Process,positive regulation of mRNA catabolic process,GO:0061014
+zfp36,ZFP36,7538,Biological Process,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",GO:1900153
+zfp36,ZFP36,7538,Biological Process,positive regulation of nuclear-transcribed mRNA poly(A) tail shortening,GO:0060213
+zfp36,ZFP36,7538,Biological Process,regulation of keratinocyte apoptotic process,GO:1902172
+zfp36,ZFP36,7538,Biological Process,regulation of keratinocyte differentiation,GO:0045616
+zfp36,ZFP36,7538,Biological Process,regulation of keratinocyte proliferation,GO:0010837
+zfp36,ZFP36,7538,Biological Process,regulation of mRNA stability,GO:0043488
+zfp36,ZFP36,7538,Biological Process,regulation of transcription by RNA polymerase II,GO:0006357
+zfp36,ZFP36,7538,Biological Process,regulation of tumor necrosis factor production,GO:0032680
+zfp36,ZFP36,7538,Biological Process,response to starvation,GO:0042594
+zfp36,ZFP36,7538,Biological Process,response to wounding,GO:0009611
+zfp36,ZFP36,7538,Biological Process,RNA destabilization,GO:0050779

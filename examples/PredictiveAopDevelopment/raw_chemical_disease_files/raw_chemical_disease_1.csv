@@ -1,0 +1,47 @@
+# Input,ChemicalName,ChemicalID,CasRN,DiseaseName,DiseaseID,DiseaseCategories,OmimIDs,PubMedIDs,DirectEvidence
+13463-67-7,titanium dioxide,C009495,13463-67-7,"Arrhythmias, Cardiac",MESH:D001145,Cardiovascular disease|Pathology (process),,25487314,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Blood Platelet Disorders,MESH:D001791,Blood disease,,28646487,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Body Weight,MESH:D001835,Signs and symptoms,,23131501,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Bronchial Hyperreactivity,MESH:D016535,Respiratory tract disease,,25456268,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Cecal Diseases,MESH:D002429,Digestive system disease,,31654707,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,"Cell Transformation, Neoplastic",MESH:D002471,Cancer|Pathology (process),,19695278,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Chemical and Drug Induced Liver Injury,MESH:D056486,Digestive system disease,,19156710|23873220|25016076|28780322|29766753,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Chromosomal Instability,MESH:D043171,Pathology (process),,19695278,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Congenital Abnormalities,MESH:D000013,Congenital abnormality,,25703175,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,"Diabetes Mellitus, Type 2",MESH:D003924,Endocrine system disease|Metabolic disease,,29792697,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Feeding and Eating Disorders,MESH:D001068,Mental disorder|Signs and symptoms,,19156710,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Fetal Death,MESH:D005313,Pathology (process)|Pregnancy complication,,22005274,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Fibrosis,MESH:D005355,Pathology (process),,25406100,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Glucose Intolerance,MESH:D018149,Metabolic disease,,31769605,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Heart Injuries,MESH:D006335,Wounds and injuries,,28780322,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Heavy Metal Poisoning,MESH:D000075322,,,20863874,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Hyperglycemia,MESH:D006943,Metabolic disease,,31298478|31769605,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Hypersensitivity,MESH:D006967,Immune system disease,,30626778,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Hypokinesia,MESH:D018476,Nervous system disease|Signs and symptoms,,25703175,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,"Infertility, Female",MESH:D007247,Urogenital disease (female),,22005274|23131501,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,"Infertility, Male",MESH:D007248,Urogenital disease (male),,24241477,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Inflammation,MESH:D007249,Pathology (process),,21259345,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Kidney Diseases,MESH:D007674,Urogenital disease (female)|Urogenital disease (male),,25406100,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Lethargy,MESH:D053609,Nervous system disease|Signs and symptoms,,19156710,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Leukocytosis,MESH:D007964,Blood disease|Pathology (process),,19875681,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Liver Cirrhosis,MESH:D008103,Digestive system disease|Pathology (process),,19156710,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Liver Diseases,MESH:D008107,Digestive system disease,,19501137,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Lung Diseases,MESH:D008171,Respiratory tract disease,,19875681,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,"Micronuclei, Chromosome-Defective",MESH:D048629,Pathology (process),,23111874|24321264,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Microsatellite Instability,MESH:D053842,Pathology (process),,19429261,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Movement Disorders,MESH:D009069,Nervous system disease,,22973466,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Necrosis,MESH:D009336,Pathology (process),,19156710|22352400,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Oligospermia,MESH:D009845,Urogenital disease (male),,28844848,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Ovarian Diseases,MESH:D010049,Endocrine system disease|Urogenital disease (female),,23131501,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Pneumonia,MESH:D011014,Respiratory tract disease,,22956629|27760801|30012374|8063194,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Prenatal Exposure Delayed Effects,MESH:D011297,Pregnancy complication,,17656681|23131501,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Prenatal Injuries,MESH:D049188,Pregnancy complication,,22005274,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Pulmonary Fibrosis,MESH:D011658,Pathology (process)|Respiratory tract disease,,27760801|8063194,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Respiratory Hypersensitivity,MESH:D012130,Immune system disease|Respiratory tract disease,,17656681,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Skin Diseases,MESH:D012871,Skin disease,,19501137,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Splenic Diseases,MESH:D013158,Lymphatic disease,,20381595,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Sunburn,MESH:D013471,Skin disease|Wounds and injuries,,21642632,therapeutic
+13463-67-7,titanium dioxide,C009495,13463-67-7,Thrombosis,MESH:D013927,Cardiovascular disease,,19156710,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Thymus Hyperplasia,MESH:D013952,Lymphatic disease,,28646487,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Tremor,MESH:D014202,Nervous system disease|Signs and symptoms,,19156710,marker/mechanism
+13463-67-7,titanium dioxide,C009495,13463-67-7,Weight Loss,MESH:D015431,Signs and symptoms,,28646487|28844848,marker/mechanism
